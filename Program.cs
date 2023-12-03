@@ -67,7 +67,7 @@ namespace App
                 }
             }
             Console.Write("Program terminated, Press any key to continue.");
-            Console.ReadKey();
+            // Console.ReadKey();
         }
     }
 }
